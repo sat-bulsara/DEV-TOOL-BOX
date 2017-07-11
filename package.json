@@ -1,6 +1,6 @@
 // pick and choose and add various dependencies into projects
 {
-  "name": "proskauer",
+  "name": "new-project",
   "version": "1.0.0",
   "dependencies": {
     "jquery": "^2.2.4",
